@@ -1,0 +1,111 @@
+.form-container label {
+  font-size: 16px; 
+  color: #333; 
+  font-weight: bold; 
+
+}
+
+.success input {
+border-color: #09c372;
+}
+.error input {
+border-color: #ff3860;
+}
+
+
+.navbar {
+  height: 80px; /* Set a fixed height for the navbar */
+}
+
+.logo {
+  max-height: 60px; 
+  max-width: 100%;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ccc;
+}
+
+.navbar-toggler {
+  border: none;
+  outline: none;
+  color: #fff;
+}
+
+.navbar-nav .nav-link {
+  color: #212529; 
+  font-family: 'Lato', sans-serif; 
+  font-weight: 500;
+}
+
+.navbar {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.jumbotron {
+  background-color: #9ad3de;
+  color: #212529; 
+  padding: 150px 0; 
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-size: 3.5rem; 
+}
+
+
+.btn-shop-now {
+  background-color: white;
+  color: black;
+  border: 1px solid black; 
+}
+
+.btn-shop-now:hover {
+  background-color: black;
+  color: white;
+}
+
+.form-container {
+  background-color: #fff; 
+  border: 5px solid #9ad3de;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 400px;
+}
+
+
+
+.oswald-custom {
+  font-family: "Oswald", sans-serif;
+  font-weight: 700; 
+}
+
+.card-title {
+  font-family: 'Poppins','Arial', sans-serif;
+  font-size: 1.2rem; 
+}
+
+
+.card-text {
+  font-family: 'Poppins','Arial', sans-serif; 
+  font-size: 1rem; 
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+  color: #555;
+  margin-top: 50px;
+  box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.form-container {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
