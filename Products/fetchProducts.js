@@ -48,7 +48,7 @@ async function fetchProductData() {
 }
 
 function showProductDetails(productId, isSameDirectory) {    // if its true, its same directory
-    const baseUrl = isSameDirectory ? '' : 'products/';
+    const baseUrl = isSameDirectory ? '' : 'Products/';
     window.location.href = `${baseUrl}productsFocus.html?id=${productId}`;
 }
 
